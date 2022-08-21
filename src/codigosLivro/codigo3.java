@@ -1,3 +1,4 @@
+package codigosLivro;
 //import static java.lang.Math.sqrt;
 
 public class codigo3
